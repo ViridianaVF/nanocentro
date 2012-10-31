@@ -1,0 +1,510 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+body{
+	background:#FFF url(../img/blu01.jpg) top repeat-x}
+
+.head01{
+	background:transparent url(../img/head1.png) center top no-repeat;
+	min-height:120px}
+
+.shadow01{
+	background:transparent url(../img/shadow01.png) center repeat-y;
+	height:100%;
+	min-height:400px;
+	vertical-align:top;
+	}
+	
+.imagesback01{
+	background:transparent url(../img/imagesback01.png) 43% 170px no-repeat;
+	margin:0;
+	padding:0;
+	vertical-align:top;
+	}
+
+.interestback{
+	background:transparent url(../img/interestlinksback.png) top repeat-x;
+	min-height:130px}
+
+
+.footer{
+	font:normal 9px Arial, Helvetica, sans-serif;
+	color:#79A7D9;
+	text-align:left;
+	padding:10px 0px;
+	cursor:default;
+	}
+.footerback{
+	background:#2b2957 url(../img/footbck01.gif) top center no-repeat; min-height:100px}
+	
+.menubarcontainer{
+	background:url(../img/menubar01.jpg) top center no-repeat}
+
+.arco1{
+	background:transparent url(../img/topcito01.png) top right no-repeat}
+	
+.arco2{
+	background:transparent url(../img/topcito02.png) top right no-repeat}
+	
+.bgcontact{
+	background:transparent url(../img/chicArgon1.jpg) left bottom no-repeat;
+	height:650px;}
+	
+.titulos1{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#339;
+	margin-bottom:5px;
+	letter-spacing:-0.05em;
+	padding:10px 0px 0px 6px;
+	border-bottom:1px solid #999;
+	}
+	
+.titulosPortada{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#C63;
+	margin-bottom:5px;
+	letter-spacing:-0.05em;
+	padding-bottom:5px;
+	text-align:center;
+	}
+	
+.titulos2{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:44px;
+	font-weight:bold;
+	color:#CCC;
+	margin-bottom:5px;
+	letter-spacing:-0.05em;
+	line-height:40px;
+	padding-bottom:5px;
+	text-align:center;
+	}
+	
+.titulos3{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:58px;
+	font-weight:bold;
+	color:#000;
+	margin-bottom:5px;
+	letter-spacing:-0.05em;
+	line-height:40px;
+	padding-bottom:5px;
+	text-align:center;
+	}
+	
+.titulos4{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:44px;
+	font-weight:bold;
+	color:#639;
+	margin-bottom:5px;
+	letter-spacing:-0.05em;
+	line-height:40px;
+	padding-bottom:5px;
+	text-align:center;
+	}
+	
+.titulos5{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000000;
+	margin-bottom:5px;
+	letter-spacing:-0.05em;
+	padding-bottom:5px;
+	text-align:center;
+	}
+	
+	
+.textos1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:left;
+	color:#666666;
+	padding:5px 6px 0px 6px;
+	}
+
+.textos2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:normal;
+	text-align:right;
+	letter-spacing:-0.03em;
+	color:#CCCCFF;
+	padding:5px 6px 0px 10px;
+	}
+	
+.textos2 a{
+	font-weight:bold;
+	text-decoration:none;
+	letter-spacing:-0.03em;
+	color:#CCCCFF;
+	}
+	
+.textos2 a:hover{
+	text-decoration:none;
+	color:#FFF;
+	}
+	
+.textos3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight:normal;
+	text-align:center;
+	letter-spacing:-0.03em;
+	color:#666;
+	padding:15px 10px 10px 10px;
+	}
+	
+.textos3 a{
+	font-weight:bold;
+	text-decoration:none;
+	letter-spacing:-0.03em;
+	color:#666;
+	}
+	
+.textos3 a:hover{
+	text-decoration:none;
+	color:#9CF;
+	}
+
+.textos4{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:20px;
+	letter-spacing:-0.05em;
+	color:#333333;
+	text-align:left;	
+	padding:15px 10px 15px 10px;
+	}
+	
+.textos4 span{
+	color:#462567;
+	font-weight:bold;
+	font-size:18px;
+	}
+
+.textos4 a {
+	color:#333333;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+.textos4 a:hover{
+	text-decoration:underline;
+	}
+	
+.textos5{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:16px;
+	color:#000;
+	padding:0px 8px 8px 0px;
+	font-weight:bold;
+	text-align:left;
+	}
+	
+.textos6{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:20px;
+	letter-spacing:-0.05em;
+	color:#333333;
+	text-align:left;	
+	padding:15px 25px 15px 50px;
+	background:url(../img/line1.jpg) right bottom no-repeat
+	}
+	
+.textos6bold1{
+	color:#000000;
+	font-weight:bold;
+	font-size:12px;
+	}
+	
+.textos6bold2{
+	color:#036;
+	font-weight:bold;
+	font-size:12px;
+	}
+	
+.textos6bold3{
+	color:#639;
+	font-weight:bold;
+	font-size:14px;
+	}
+	
+.textos6 a {
+	color:#333333;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+.textos6 a:hover{
+	text-decoration:underline;
+	}
+	
+#image_rotate {
+	list-style:none;
+	padding-top:0px;
+	vertical-align:top;
+	margin-top:0px;
+	padding-left:0px;}
+
+
+
+/*
+Dynamic Menu System - Horizontal/Vertical
+*/
+
+ul#navmenu-h {
+  margin: 0;
+  border: 0 none;
+  padding: 0;
+  width: 700px; /*For KHTML*/
+  list-style: none;
+  height: 30px;
+}
+
+ul#navmenu-h li {
+  margin: 0;
+  border: 0 none;
+  padding: 0;
+  float: left; /*For Gecko*/
+  display: inline;
+  list-style: none;
+  position: relative;
+  height: auto;
+}
+
+ul#navmenu-h ul {
+  margin: 0;
+  border: 0 none;
+  padding: 0;
+  width: 160px;
+  list-style: none;
+  display: none;
+  position: absolute;
+  top: 30px;
+  left: 0;
+}
+
+ul#navmenu-h ul:after /*From IE 7 lack of compliance*/{
+  clear: both;
+  display: block;
+  font: 1px/0px serif;
+  content: ".";
+  height: 0;
+  visibility: hidden;
+}
+
+ul#navmenu-h ul li {
+  width: 160px;
+  float: left; /*For IE 7 lack of compliance*/
+  display: block !important;
+  display: inline; /*For IE*/
+}
+
+/* Root Menu */
+ul#navmenu-h a {
+  border:0px;
+/*   border-left: 1px solid #ccc; */
+  padding: 10px 8px 8px 8px;
+  float: none !important; /*For Opera*/
+  float: left; /*For IE*/
+  display: block;
+  background-color:transparent;
+  background-image:url(../img/menubar1.png);
+  background-position:bottom left;
+  background-repeat:no-repeat;
+  color: #fff;
+  font-weight:bold;
+  font-family:Arial;
+  font-size:11px;
+  text-decoration: none;
+  height: auto !important;
+  height: 1%; /*For IE*/
+}
+
+/* Root Menu Hover Persistence */
+ul#navmenu-h a:hover,
+ul#navmenu-h li:hover a,
+ul#navmenu-h li.iehover a {
+  background-color:#000;
+  color:#fff;
+}
+
+/* 2nd Menu */
+ul#navmenu-h li:hover li a,
+ul#navmenu-h li.iehover li a {
+  border-left: 2px solid #eeba2b;
+  border-bottom: 1px solid #363636;
+  float: none;
+  background: #000;
+  color: #f90;
+}
+
+/* 2nd Menu Hover Persistence */
+ul#navmenu-h li:hover li a:hover,
+ul#navmenu-h li:hover li:hover a,
+ul#navmenu-h li.iehover li a:hover,
+ul#navmenu-h li.iehover li.iehover a {
+  background: #f90;
+  color: #fff;
+}
+
+/* 3rd Menu */
+ul#navmenu-h li:hover li:hover li a,
+ul#navmenu-h li.iehover li.iehover li a {
+  background: #EEE;
+  color: #666;
+}
+
+/* 3rd Menu Hover Persistence */
+ul#navmenu-h li:hover li:hover li a:hover,
+ul#navmenu-h li:hover li:hover li:hover a,
+ul#navmenu-h li.iehover li.iehover li a:hover,
+ul#navmenu-h li.iehover li.iehover li.iehover a {
+  background: #CCC;
+  color: #000099;
+}
+
+/* 4th Menu */
+ul#navmenu-h li:hover li:hover li:hover li a,
+ul#navmenu-h li.iehover li.iehover li.iehover li a {
+  background: #EEE;
+  color: #666;
+}
+
+/* 4th Menu Hover */
+ul#navmenu-h li:hover li:hover li:hover li a:hover,
+ul#navmenu-h li.iehover li.iehover li.iehover li a:hover {
+  background: #CCC;
+  color: #000099;
+}
+
+ul#navmenu-h ul ul,
+ul#navmenu-h ul ul ul {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 160px;
+}
+
+/* Do Not Move - Must Come Before display:block for Gecko */
+ul#navmenu-h li:hover ul ul,
+ul#navmenu-h li:hover ul ul ul,
+ul#navmenu-h li.iehover ul ul,
+ul#navmenu-h li.iehover ul ul ul {
+  display: none;
+}
+
+ul#navmenu-h li:hover ul,
+ul#navmenu-h ul li:hover ul,
+ul#navmenu-h ul ul li:hover ul,
+ul#navmenu-h li.iehover ul,
+ul#navmenu-h ul li.iehover ul,
+ul#navmenu-h ul ul li.iehover ul {
+  display: block;
+}
+
+
+
+
+
+/* ---------- Mega Drop Down --------- */
+#mega {
+list-style:none;
+height:2em;
+margin:0px -1px 0 40px;
+font-family:Arial, Helvetica, sans-serif;
+}
+#mega li {
+background:transparent;
+border-left:1px solid #306;
+margin-left:-1px;
+float:left;
+width:auto;
+text-align:center;
+position:relative;
+}
+#mega li:hover {
+background:#000;
+border-bottom:0; /* border-bottom:0; and padding-bottom:1px; keeps <li> and <div> connected */
+padding:0px 0 1px 0;
+margin-top:0;
+/*margin-top:-7px;*/
+z-index:1; /* shadow above adjacent li */
+}
+#mega a {
+color:#fff;
+outline:0;
+text-decoration:none;
+display:block;
+line-height:30px;
+font-size:14px;
+padding:4px 10px 0px 10px;
+}
+/* ----------- Hide/Show Div ---------- */
+#mega div {
+position:absolute;
+left:-999em;
+margin-top:1px;
+width:350px;
+padding:0 10px 0px 10px;
+border:1px solid #000;
+border-top:0;
+font-weight:normal;
+text-align:left;
+background:#523a77 url(../img/menuback01.jpg) top center no-repeat;
+}
+#mega li:hover div {
+left:-1px;top:auto;
+}
+#mega li.dif:hover div {
+left:-221px;
+}
+/* --------- Within Div Styles --------- */
+#mega div h2 {
+/*background:#999;*/
+font-family:Verdana, Geneva, sans-serif;
+font-weight:normal;
+font-size:10px;
+color:#fff;
+padding:0 10px 10px 10px;
+margin:10px 0 5px 0;
+clear:both;
+float:left;
+width:330px;
+position:relative; /* makes above drop shadow */
+border-bottom:#9900CC 1px solid;
+}
+#mega div p {
+float:left;
+width:105px;
+padding-left:10px;
+position:relative; /* makes above drop shadow */
+padding-top:0px;
+}
+#mega div p a {
+text-decoration:none;
+float:left;
+clear:left;
+width:100%; /* For IE6/7 */
+line-height:16px;
+font-size:12px;
+color:#CCCCFF;
+/*border-left: 1px solid #CCCCFF;*/
+background:transparent url(../img/menuarrow01.gif) center left no-repeat;
+padding:5px 10px 5px 12px;
+}
+#mega div a:hover, #mega div a:focus, #mega div a:active {
+text-decoration:underline;
+color:#FFFFFF
+}

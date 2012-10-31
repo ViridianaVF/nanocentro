@@ -1,0 +1,25 @@
+
+
+ul#portfolio{
+	list-style:none;
+  margin: 0;
+  padding: 0;
+  width: 960px;
+}
+
+ul#portfolio li img{
+  margin: 0;
+  border: 0 none;
+  padding: 0;
+  list-style: none;
+  left: 0;
+}
+
+ul#portfolio li{
+  margin: 0;
+  border: 0 none;
+  padding: 0;
+  list-style: none;
+  height: auto;
+}
+
